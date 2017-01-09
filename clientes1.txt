@@ -1,0 +1,3 @@
+joão@teste.com
+paulo@teste.com
+mario@teste.com
